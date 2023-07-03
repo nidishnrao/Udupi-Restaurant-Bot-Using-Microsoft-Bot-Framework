@@ -1,0 +1,16 @@
+[
+  {
+    "cloudName": "AzureCloud",
+    "homeTenantId": "cbede638-a3d9-459f-8f4e-24ced73b4e5e",
+    "id": "dd18d676-6fa7-44ae-9351-145956c91d9a",
+    "isDefault": true,
+    "managedByTenants": [],
+    "name": "Free Trial",
+    "state": "Enabled",
+    "tenantId": "cbede638-a3d9-459f-8f4e-24ced73b4e5e",
+    "user": {
+      "name": "nidish.n.rao@tietoevry.com",
+      "type": "user"
+    }
+  }
+]

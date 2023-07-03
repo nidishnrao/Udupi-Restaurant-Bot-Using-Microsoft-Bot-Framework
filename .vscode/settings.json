@@ -1,0 +1,5 @@
+{
+    "azure.showSignedInEmail": false,
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/dd18d676-6fa7-44ae-9351-145956c91d9a/resourceGroups/Udupi-Spice-Restaurant-bot/providers/Microsoft.Web/sites/RestaurantBot",
+    "appService.deploySubpath": "."
+}

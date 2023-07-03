@@ -1,0 +1,53 @@
+{
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "type": "AdaptiveCard",
+    "version": "1.0",
+    "body": [
+      {
+        "speak": "Udupi Spice is a south indian restaurant which is rated 9.3 by customers.",
+        "type": "ColumnSet",
+        "columns": [
+          {
+            "type": "Column",
+            "width": 2,
+            "items": [
+              {
+                "type": "TextBlock",
+                "text": "South Indian Cuisine"
+              },
+              {
+                "type": "TextBlock",
+                "text": "Udupi Spice",
+                "weight": "bolder",
+                "size": "extraLarge",
+                "spacing": "none"
+              },
+              {
+                "type": "TextBlock",
+                "text": "9.3 ★★★★★★★★★☆ (1100) · ₹",
+                "isSubtle": true,
+                "spacing": "none"
+              },
+              {
+                "type": "TextBlock",
+                "text": "**Shivram Bhat said** \"I'm compelled to give this place 10 stars due to the number of times I've chosen to eat here this past year!\"",
+                "size": "small",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "Column",
+            "width": 1,
+            "items": [
+              {
+                "type": "Image",
+                "url": "https://www.onmanorama.com/content/dam/mm/en/food/features/images/2023/1/31/south-indian-cuisine.jpg.transform/845x440/image.jpg",
+                "size": "auto"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
